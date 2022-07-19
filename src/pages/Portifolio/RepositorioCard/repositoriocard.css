@@ -1,0 +1,17 @@
+.repositorio-card {
+    background: #1e247c;
+    width: 320px;
+    height: 120px;
+    border: 3px solid #5282ce;
+    border-radius: 10px;
+    text-align: center;
+    color: snow;
+    margin-top: 1rem;
+  }
+  
+  .repositorioCard-title {
+    padding-top: 1rem;
+    font-size: 1.2em;
+    padding-bottom: 1rem;
+  }
+

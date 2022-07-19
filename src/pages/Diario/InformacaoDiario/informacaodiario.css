@@ -1,0 +1,22 @@
+.main {
+    margin: 5%;
+  }
+  
+  .diario-title {
+    color: #5279ce;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+  }
+  
+  .card-list {
+    padding-bottom: 3rem;
+  }
+  
+  @media screen and (min-width: 769px) {
+    .card-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+  }

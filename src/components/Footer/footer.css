@@ -1,0 +1,18 @@
+.footer {
+    background-color: #1e1e7c;
+    color: white;
+    height: 60px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+a{
+    text-decoration: none;
+  }
+  
+span {
+    color: #89a6f5;
+    padding-left: 3px;
+  }

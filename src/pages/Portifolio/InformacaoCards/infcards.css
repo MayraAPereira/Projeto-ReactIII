@@ -1,0 +1,24 @@
+.infCards-title {
+    color: #5286ce;
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .main {
+    margin: 5%;
+  }
+  
+  .card-list {
+    padding-bottom: 1rem;
+    background-color: #5286ce;
+    border: 3px solid #1e207c;
+    border-radius: 10px;
+  }
+  
+  @media screen and (min-width: 769px) {
+    .card-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+  }
