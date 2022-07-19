@@ -3,7 +3,7 @@ import Header from "../../components/Header/Header";
 import { FiTrash2, FiPlus } from "react-icons/fi";
 import image from "../../assets/comentarios.gif";
 import Footer from "../../components/Footer/Footer";
-import "./Comentarios.css";
+import "./comentarios.css";
 
 function Comentarios() {
   const getLocalList = () => {
